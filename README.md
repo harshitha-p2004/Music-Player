@@ -24,7 +24,7 @@ To add more songs to the playlist, follow these steps:
 1. Open the `music-list.js` file located in the `js` folder.
 2. Copy the following code snippet:
 
-###javascript
+### javascript
 {
   name: "Song Name",
   artist: "Artist Name",
