@@ -40,6 +40,6 @@ To add more songs to the playlist, follow these steps:
 3. Paste the snippet inside the allMusic array in music-list.js.
 4. Save the file.
 
-##Live demo of Music player:
+## Live demo of Music player:
 
 <a href="https://harshitha-p2004.github.io/Music-Player/" target="_blanck">LIVE DEMO LINK</a>
