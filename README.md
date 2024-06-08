@@ -24,12 +24,17 @@ To add more songs to the playlist, follow these steps:
 1. Open the `music-list.js` file located in the `js` folder.
 2. Copy the following code snippet:
 
-### javascript
+#### javascript code snippet
 {
+
   name: "Song Name",
+  
   artist: "Artist Name",
-  img: "image-name.jpg", // Image file must be in .jpg format and located in the images folder.
+  
+  img: "image-name.jpg", // Image file must be in .jpg format and located in the images folder
+  
   src: "song-name.mp3"   // Song file must be in .mp3 format and located in the songs folder.
+  
 }
 
 3. Paste the snippet inside the allMusic array in music-list.js.
