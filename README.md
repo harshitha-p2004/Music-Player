@@ -1,4 +1,4 @@
-# Music Player Web Project
+# Music Player Project
 
 This is a simple music player web project built using HTML, CSS, and JavaScript.
 
