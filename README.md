@@ -37,4 +37,4 @@ To add more songs to the playlist, follow these steps:
 
 ##Live demo of Music player:
 
-<a href="" target="_blanck">LIVE DEMO LINK</a>
+<a href="https://harshitha-p2004.github.io/Music-Player/" target="_blanck">LIVE DEMO LINK</a>
